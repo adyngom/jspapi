@@ -1,0 +1,6 @@
+{
+    "1": { "name": "Mango Juice", "stock": 2 },
+    "2": { "name": "Banana Smoothies", "stock": 2 },
+    "3": { "name": "Guava Mix", "stock": 1 },
+    "4": { "name": "Citrus Blend", "stock": 3 }
+}
